@@ -7,7 +7,7 @@ This repository contains an StudentDb API written in C# and ASP.NET Core 3.1.
 
 1. Clone this repository
 2. Build the solution using Visual Studio, or on the [command line](https://www.microsoft.com/net/core) with `dotnet build`.
-3. Run the project. The API will start up on http://localhost:20846, or http://localhost:5000 with `dotnet run` or try to run it form visual studio using IIS Express. It will definet the port for it.
+3. Run the project. The API will start up on http://localhost:20846, or http://localhost:5000 with `dotnet run` or try to run it form visual studio using IIS Express. It will define the port for it.
 4. Use an HTTP client like [Postman](https://www.getpostman.com/) or [Fiddler](https://www.telerik.com/download/fiddler) to `GET http://localhost:20846`.
 
 ## Cloning the repo using the Docker Hub
